@@ -32,6 +32,6 @@ TraeWork（也叫豆包办公）是字节跳动 TRAE 战略产品团队自研的
 
 ---
 
-**官方持续更新入口：[老手村 官网](https://www.laoshoucun.com/traework)**
+**官方持续更新入口：[豆包办公](https://www.laoshoucun.com/traework)**
 
 © [老手村](https://www.laoshoucun.com/) · 本仓库为官网内容镜像，文章版权归原作者所有。
